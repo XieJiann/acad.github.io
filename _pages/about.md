@@ -17,6 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # JingWei Xu
+<img src = "https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=15maGTwAAAAJ&citpid=3" align = "right" width = "200">
 - Assistant Researcher
 - Institute of Computer Software, Nanjing University
 - Room 919, Computer Science and Technology Building
